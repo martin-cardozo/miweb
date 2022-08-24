@@ -1,2 +1,5 @@
 Otro mundo
 Venus
+Tierra
+Marte
+Jupiter
